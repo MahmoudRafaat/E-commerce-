@@ -51,4 +51,5 @@ A fully functional Flutter-based E-Commerce application with separate features f
 | `cupertino_icons` | iOS style icons |
 
 ## 📂 Project Structure
+![image](https://github.com/user-attachments/assets/e27d4139-eedc-4814-acfe-0a0f83dc3824)
 
